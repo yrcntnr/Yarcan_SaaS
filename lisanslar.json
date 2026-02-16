@@ -4,9 +4,19 @@
     "video_hakki": 9999,
     "paket_ismi": "ADMIN PRO"
   },
-  "MUSTERI_CIHAZ_ID_BURAYA": {
-    "bitis_tarihi": "2026-03-16",
-    "video_hakki": 30,
-    "paket_ismi": "STARTER"
+  "MUSTERI_ID_1": {
+    "bitis_tarihi": "2026-05-16",
+    "video_hakki": 50,
+    "paket_ismi": "3 AYLIK GÜMÜŞ"
+  },
+  "MUSTERI_ID_2": {
+    "bitis_tarihi": "2026-08-16",
+    "video_hakki": 150,
+    "paket_ismi": "6 AYLIK PLATİN"
+  },
+  "MUSTERI_ID_3": {
+    "bitis_tarihi": "2027-02-16",
+    "video_hakki": 410,
+    "paket_ismi": "YILLIK ALTIN"
   }
 }
