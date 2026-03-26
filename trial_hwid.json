@@ -1,0 +1,12 @@
+{
+  "TRIAL_HWID_1": {
+    "start_date": "2026-03-25",
+    "videos_used": 2,
+    "status": "expired"
+  },
+  "TRIAL_HWID_2": {
+    "start_date": "2026-03-25",
+    "videos_used": 1,
+    "status": "active"
+  }
+}
