@@ -49,7 +49,7 @@
     "video_hakki": 410,
     "paket_ismi": "YILLIK ALTIN"
   },
-  "N0CY1734MB0013069": {
+  "": {
     "bitis_tarihi": "2026-05-16",
     "video_hakki": 50,
     "paket_ismi": "3 AYLIK GÜMÜŞ"
@@ -68,5 +68,12 @@
     "bitis_tarihi": "2026-03-29",
     "video_hakki": 2,
     "paket_ismi": "TEST SÜRECİ"
+  },
+{
+  "N0CY1734MB0013069": {
+    "bitis_tarihi": "2026-05-16",
+    "video_hakki": 50,
+    "baslangic_sayaci": 2,
+    "paket_ismi": "3 AYLIK GÜMÜŞ"
   }
 }
